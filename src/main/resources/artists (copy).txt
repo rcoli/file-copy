@@ -1,0 +1,800 @@
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Alison Krauss & Union Station
+drwx------  4 rcoli rcoli     4096 Jan 21  2015 Amy Winehouse
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Archie Bell & The Drells
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Arlindo Cruz
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Arturo Sandoval
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Ben E. King
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Ben Somer
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Beth Carvalho
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Berimbrown
+drwx------  4 rcoli rcoli     4096 Jan 21  2015 Beto Guedes
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Betty Boo
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Betty Carter
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Big Star
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Big Joe Turner
+drwx------  4 rcoli rcoli     4096 Jan 21  2015 Bill Withers
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Bill Harley
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Bill Haley & His Comets
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Billy Paul
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Billy Joel
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Billie Holiday_Louis Armstrong
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Blondie
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Blue Oyster Cult
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Bo Diddley
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Bob Dylan
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Blues Brothers
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Bobby Fuller Four
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Bobby Darin
+drwx------  3 rcoli rcoli     4096 Jan 21  2015 Bobbie Gentry
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Booker T. & The M.G.S
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Bonnie Raitt
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Books
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Brook Benton
+drwx------  6 rcoli rcoli     4096 Jan 22  2015 Britney Spears
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Boston
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Buddy Holly And The Crickets
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Buddy Holly
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Bunny Brunel
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Buffalo Springfield
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 BVSMP
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Candeia
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Carl Perkins
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Carlos Dafe
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Cartola
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Carole King
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Celso Blues Boy
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Cesar de Paula & Projecto S.A.mbalance
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Cherill Crow
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Cheap Trick
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Charlie Parker
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Chubby Checker
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Cindy Lauper
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Clifford Brown
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Claudio Zoli
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Clube Do Balanco
+drwx------  6 rcoli rcoli     4096 Jan 22  2015 Coldplay
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Companhia Itinerante
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Compay Segundo
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Conexão Japeri
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Count basie
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Creedence Clearwater Revival
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Crosby Stills Nash And Young
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Crosby, Stills And Nash
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 David Bowie
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Derek And The Dominos
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Depeche Mode
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Del Shannon
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Diana Krall
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Diana King
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Dexter Gordon
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Desiree
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Dion
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Dolly Parton
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Don Henley
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Dread Lion
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Doobie Brothers
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Duran Duran
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Duke Ellington
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Eddie Cochran
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Elton John
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Elvis Costello
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Elza Soares & Ney Matogrosso
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Elvis Presley
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Eminem
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 EMF
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Eric B And Rakim
+drwx------  2 rcoli rcoli     4096 Jan 22  2015 Erasmo Carlos - 50 Anos de Estrada Ao Vivo (2012)
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Everly Brothers
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Eurythmics
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Eumir Deodato Trio
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Fats Domino
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Farufyno
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Foreigner
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Fleetwood Mac
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Frankie Valii
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Frankie Lymon & The Teenagers
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Freneticas
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Funkadelic
+drwx------  2 rcoli rcoli     4096 Jan 22  2015 Gabriela_1975
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Gene Vincent
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 George Harrison
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 George Jones
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Geraldo Pereira
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Gizele - Madonna Brasileira
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Glen Campbell
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Gladys Knight And The Pips
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Gloria Gaynor
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Grandmaster Flash And The Furious Five
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Grupo JB
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Groovytown
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Hank Williams, Sr
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Hank Williams
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Herbie Hancock
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Howlin' Wolf
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Howard Roberts
+drwx------  2 rcoli rcoli     4096 Jan 22  2015 Holandes Voador
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Information Society
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Ike And Tina Turner
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Ira
+drwx------  6 rcoli rcoli     4096 Jan 22  2015 iTunes
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Jackie Wilson
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Jackson Browne
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Jamie Cullum
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Jamz
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Janis Joplin
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Jean Knight
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Jessé
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Jerry Lee Lewis
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Jerry Butler
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Jefferson Airplane
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Jeff Buckley
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 jim hall
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 jimmy smith
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Jimmy Cliff
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Joan Jett & The Blackhearts
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Joaozinho Carnavalesco
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 John Lennon & Rollling Stones
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 John Lennon
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 John Mellencamp
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Johnny Cash
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Joni Mitchell
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Jorge Drexler
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Jota Quest
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Joy Division
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 João Gilberto
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 João Sabia
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Juarez Moreira
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Kara's Flowers
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Keith Jarret
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Kenny Garret
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Labelle
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Leci Brandão
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Leandro Sapucahy
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Lavern Baker
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Lauren Hill
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Leo Jaime
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Leo Maia
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Linear
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Lincoln de Lima
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Lighthouse Family
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 liquid soul
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Lionel Ritchie
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Little Eva
+drwx------  2 rcoli rcoli     4096 Jan 22  2015 Listas de Reprodução
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Little Richard
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Lloyd Price
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Los Hermanos
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Lou Reed
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Love
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Louis Armstrong & Ella
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Luciano Bruno
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Ludwig van Beethoven, London C
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Luis Carlos da Vila
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Lynyrd Skynyrd
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Marco Pereira & Hamilton de Holanda
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Maria Fumaça
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Maria Martinez
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Martha Reeves And The Vandellas
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Martha And The Vandella
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Mattoli E Os Guanabaras
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Maynard Fergunson
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Mc Hammer
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Meters
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Mile Davis Quartet
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Miles & T. Monk
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Miles Davis & Thelonious Monk
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Milton Nascimento e Lô Borges
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Mitch Ryder And The Detroit Wheels
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Milton Nascimento-Lô Borges
+drwx------  2 rcoli rcoli     4096 Jan 22  2015 Mobile Applications
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Mott The Hoople
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 MPB4
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Mr. Goove
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Muddy Waters
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Music
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 N.W.A
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 N 2 Deep
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Nara Leão
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Natiruts
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Nelson Cavaquinho
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Nelly
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Neil Young
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 New York Dolls
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 New Order
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Nirvana
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Nickelback
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Noca da Portela
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Norman Greenbaum
+drwx------  6 rcoli rcoli     4096 Jan 22  2015 O Rappa
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Olivia Byington
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Os Opalas
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Oswaldo Montenegro
+drwx------  2 rcoli rcoli     4096 Jan 22  2015 OST - Hair
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Outkast
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Pandora
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Patti Smith
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Patti Labelle
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Patsy Cline
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Pat Metheny, B.B. King, Dave Brubeck
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Paul Simon
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Paul Revere & The Raiders
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Paulinho Athayde
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Pavement
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Pedro Camargo Mariano
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Percy Sledge
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Poison
+drwx------  2 rcoli rcoli     4096 Jan 22  2015 Polemica_Wilson_x_Noel
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Public Enemy
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Procol Harum
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Prince
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 R. Kelly
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 R.E.M
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Rage Agains the Machine
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Radiohead
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Question Mark & The Mysterians
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Randy Newman
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Rick James
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Rick
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Renato Fechine
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Ritchie Valens
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Roberta Flack
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Roberta Sa
+drwx------  5 rcoli rcoli     4096 Jan 22  2015 Roberto Carlos
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Rod Stewart
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Romero Lubambo
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Rolling Stones
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Roy Orbison
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Run Dmc
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Sam & Dave
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Sam Cooke
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Salt-N-Pepa
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Santana, J.Beck, S.Lukather
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Satsang
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Sarah Brightman
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Screamin' Jay Hawkins
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Secos E Molhados
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Sepultura
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Shaka Khan
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Sex Pistols
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Seu Jorge & Paula Lima
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Seu Jorge & Ana Carolina
+drwx------  5 rcoli rcoli     4096 Jan 22  2015 Silvera
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Sinead O'connor
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Simply Red
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Simon & Garfunkel
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Simarik
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Sly & The Family Stone
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Solomon Burke
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Socrates
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Smokey Robinson & The Miracles
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Smokey Robinson
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Soul II Soul
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Sonora Matancera
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 Stan Getz & Chet Baker
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Stan Getz & Charlie Byrd
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Steppenwolf
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Stelly Dan
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Stan Getz_Chet Baker
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Stray Cats
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Supertramp
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Sururu Na Roda
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Take 6
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Swingability
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Survivor
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Television
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Teodross Avery
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Band
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The B-52S
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Animals
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Allman Brothers Band
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Bee Gees
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 The Beatles
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Box Tops
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Black Eyed Peas
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Chords
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Chiffons
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Chantels
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Carpenters
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Byrds
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Coasters
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Crystals
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Controlers
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Dixie Cups
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Dell-Vikings
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Dells
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 The Cure
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Drifters
+drwx------  4 rcoli rcoli     4096 Jan 22  2015 The Doors
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Five Stairsteps
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Five Satins
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Everly Brothers
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Emotions
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Eagles
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Isley Brothers
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Impressions
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Four Tops
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Flamingos
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Jam
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Lovin' Spoonful
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Left Banke
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Kinks
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Kingsmen
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Jimi Hendrix Experience
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Moody Blues
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Modern Lovers
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Mamas & The Papas
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Platters
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Pixies
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Penguins
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Righteous Brothers
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Ramones
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Ronettes
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Shangi-Las
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Stooges
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Staple Singers
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Spencer Davis Group
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Smiths
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Shirelles
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Shangri-Las
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Temptations
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Supremes
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Sugar Hill Gang
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Style Council
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Velvet Underground
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Wailers
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Verve
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Yardbirds
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Wonders
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Zombies
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 The Young Rascals
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Thelonius Monk with Sonny Rollins
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Thelonious Monk and John Coltrane
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Thiago Correa
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Them
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Thin Lizzy
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Tina Turner
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Tom Jones
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Tonho Crocco
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Tom Petty
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Toots Thielemans
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Toots & The Maytals
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Toni Garrido
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Travis
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Tupac Shakur
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Valeria Sattamini
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Us3
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Van Morrison
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Vanilla Ice
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Verano Tropical
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Weezer
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Will Smith
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Willie Nelson
+drwx------  3 rcoli rcoli     4096 Jan 22  2015 Wilson Pickett
+drwx------  5 rcoli rcoli     4096 Jan 24  2015 Suricato
+drwx------  2 rcoli rcoli     4096 Mar 21  2015 Caetano Veloso & Chico Buarque - 1972 Chico & Caetano Juntos e Ao Vivo
+drwx------  2 rcoli rcoli     4096 Mar 21  2015 Garganta Profunda - 2000 Chico & Noel em Revista
+drwx------  2 rcoli rcoli     4096 Mar 21  2015 Hip Hop Cultura de Rua
+drwx------  2 rcoli rcoli     4096 Mar 21  2015 Sergio Britto - 2010 SP55
+-rwx------  1 rcoli rcoli    28276 Ago 23  2015 Folder.jpg
+-rwx------  1 rcoli rcoli     5461 Ago 23  2015 AlbumArtSmall.jpg
+-rwx------  1 rcoli rcoli     5461 Ago 23  2015 AlbumArt_{BB19B913-2F1B-4F50-8F9F-DC83FD170A84}_Small.jpg
+-rwx------  1 rcoli rcoli    28276 Ago 23  2015 AlbumArt_{BB19B913-2F1B-4F50-8F9F-DC83FD170A84}_Large.jpg
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 America
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Antonio Carlos Jobim
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Antonio Carlos Jobim & Elis Regina
+drwx------  7 rcoli rcoli     4096 Ago 23  2015 Aretha Franklin
+drwx------ 11 rcoli rcoli     4096 Ago 23  2015 Arnaldo Antunes
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Arnaldo Baptista
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Art Blakey & the Jazz Messengers
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Ashlee Simpson
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Asia
+drwx------ 10 rcoli rcoli     4096 Ago 23  2015 Azymuth
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Beck Bogert & Appice
+drwx------  7 rcoli rcoli     4096 Ago 23  2015 Belchior
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Bezerra da Silva
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Bill Evans
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Bill Evans Trio
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Billie Holiday
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Black Eyed Peas
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Black Rio
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Blue Murder
+drwx------ 32 rcoli rcoli     4096 Ago 23  2015 Bob Marley
+drwx------ 17 rcoli rcoli     4096 Ago 23  2015 Bobby Mcferrin
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Boca Livre
+drwx------  7 rcoli rcoli     4096 Ago 23  2015 Bon Jovi
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Bossacucanova
+drwx------  8 rcoli rcoli     4096 Ago 23  2015 Bossa Cuca Nova
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Brooklyn Funk Essentials
+drwx------  7 rcoli rcoli     4096 Ago 23  2015 Bryan Lee
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Buena Vista Social Club
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Burt Bacharach
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Cannonball Adderley
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Capital Inicial
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Carlos Malta
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Celia Cruz & Beny More
+drwx------ 25 rcoli rcoli     4096 Ago 23  2015 Celia Cruz
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Celia Cruz & La Sonora Matancera
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Chet Baker
+drwx------  7 rcoli rcoli     4096 Ago 23  2015 Charles Mingus
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Chic
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Chick Corea's Akoustic Band
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Chick Corea
+drwx------ 11 rcoli rcoli     4096 Ago 23  2015 Chickenfoot
+drwx------ 21 rcoli rcoli     4096 Ago 23  2015 Chico Buarque
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Chico Science
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Chucho Valdés & Irakere
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Claudio Dauelsberg
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Clara Nunes
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Clifford Brown-Max Roach Quintet
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Claudio Roditi
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Count Basic
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Cream
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Céu
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 David Byrne
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Dave Brubeck Quartet
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 David Lee Roth
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Dee Lite
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Deodato
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Deep Purple
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Diana Ross & The Supremes
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Diane Schuur & B.B. King
+drwx------  8 rcoli rcoli     4096 Ago 23  2015 Dio
+drwx------  7 rcoli rcoli     4096 Ago 23  2015 Diogo Nogueira
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Dionne Warwick
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Dizzie Gillespie
+drwx------ 15 rcoli rcoli     4096 Ago 23  2015 Djavan
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Dom Salvador
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Donna Summer
+drwx------ 11 rcoli rcoli     4096 Ago 23  2015 Dread Zeppelin
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Dream Theater
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Dusty Springfield
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Eagle-Eye Cherry
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Earth, Wind & Fire
+drwx------  8 rcoli rcoli     4096 Ago 23  2015 Ed Motta
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Edu Lobo
+drwx------  8 rcoli rcoli     4096 Ago 23  2015 Elba Ramalho
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Elba Ramalho; Geraldo Azevedo; Zé Ramalho;
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Ella Fitzgerald
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Elis Regina
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Elton Medeiros_Nelson Sargento_Galo Pret
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Elvin Jones
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Emerson, Lake & Palmer
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Emerson, Lake & Powell
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Eric Clapton
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Erma Franklin
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Etta James
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Eumir Deodato
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Extreme
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Fafa de Belem
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Fagner
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Faith No More
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Farofa Carioca
+drwx------  7 rcoli rcoli     4096 Ago 23  2015 Fernanda Abreu
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Frank Sinatra
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Frank Zappa
+drwx------ 10 rcoli rcoli     4096 Ago 23  2015 Franz Ferdinand
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Frejat
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Fundo de Quintal
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Funk  Inc
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Funk Como Le Gusta
+drwx------  8 rcoli rcoli     4096 Ago 23  2015 Gal Costa
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Gary Moore
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Genesis
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 George Benson
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 George Michael
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Geraldo Azevedo
+drwx------  9 rcoli rcoli     4096 Ago 23  2015 Gilberto Gil
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Gilberto Gil Jorge Ben
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Gilberto Gil-Milton Nascimento
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Glenn Hughes
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Gonzagao & Gonzaguinha
+drwx------ 10 rcoli rcoli     4096 Ago 23  2015 Gonzaguinha
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Gorillaz
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Grace Jones
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Gregg Bissonette
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Guilherme Arantes
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Guns N' Roses
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Guilherme Dias Gomes
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Hamilton De Holanda
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Heart
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Herbert Vianna
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Heaven & Hell
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Hermeto Pascoal
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Iggy Pop
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Ike Quebec
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 INXS
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Ipanemas
+drwx------ 13 rcoli rcoli     4096 Ago 23  2015 Iron Maiden
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Ivan Lins
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Ivo Meirelles
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Jack DeJohnette
+drwx------  7 rcoli rcoli     4096 Ago 23  2015 Jackson 5
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Jack Johnson
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Jaco Pastorius
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Jair Oliveira
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 James Brown
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 James Taylor Quartet
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 James Taylor
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Jamiroquai
+drwx------  8 rcoli rcoli     4096 Ago 23  2015 Jason Mraz
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Jeff Beck with Terry Bozzio & Tony Hymas
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Jeff Beck
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Jethro Tull
+drwx------ 30 rcoli rcoli     4096 Ago 23  2015 Jimi Hendrix
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Joanna
+drwx------  7 rcoli rcoli     4096 Ago 23  2015 Joe Satriani
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 John Lee Hooker
+drwx------  8 rcoli rcoli     4096 Ago 23  2015 John Coltrane
+drwx------  9 rcoli rcoli     4096 Ago 23  2015 John Mayer
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 John Patitucci
+drwx------  8 rcoli rcoli     4096 Ago 23  2015 John Scofield
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 John Scofield-Pat Metheny
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 John Sykes
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Jorge Aragao
+drwx------ 41 rcoli rcoli     4096 Ago 23  2015 Jorge Benjor
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Joss Stone
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Journey
+drwx------ 33 rcoli rcoli     4096 Ago 23  2015 João Bosco
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 João Donato
+drwx------ 12 rcoli rcoli     4096 Ago 23  2015 João Nogueira
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Judas Priest
+drwx------  7 rcoli rcoli     4096 Ago 23  2015 Karizma
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Kenny G
+drwx------  2 rcoli rcoli     4096 Ago 23  2015 Kings of leon
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Kiss
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Kool & the Gang
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Kraftwerk
+drwx------  7 rcoli rcoli     4096 Ago 23  2015 La Sonora Matancera
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Laurent Voulzy
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Lee Ritenour
+drwx------  7 rcoli rcoli     4096 Ago 23  2015 Led Zeppelin
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Lenine
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Lenny Kravitz
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 LFO
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Little Joy
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Lisa Stansfield
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Live
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Living Colour
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Loreena McKennitt
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Los Lobotomys
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Louis Armstrong
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Luciana Mello
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Lucrecia
+drwx------ 11 rcoli rcoli     4096 Ago 23  2015 Ludwig van Beethoven
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Luis Vagner
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Luiz Bonfa
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Luiz Gonzaga
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Luiz Melodia
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Lô Borges
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 M People
+drwx------ 11 rcoli rcoli     4096 Ago 23  2015 Madonna
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Marcus Viana
+drwx------  2 rcoli rcoli     4096 Ago 23  2015 Marcos Sacramento - 2004 Memorável Samba
+drwx------  9 rcoli rcoli     4096 Ago 23  2015 Maria Bethânia
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Maria Rita
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Marillion
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Marina de La Riva
+drwx------  8 rcoli rcoli     4096 Ago 23  2015 Marisa Monte
+drwx------  8 rcoli rcoli     4096 Ago 23  2015 Maroon 5
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Max De Castro
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Marvin Gaye
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 MD.45
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Maynard Ferguson
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Meirelles e Os Copa 5
+drwx------ 18 rcoli rcoli     4096 Ago 23  2015 Megadeth
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Men at Work
+drwx------ 23 rcoli rcoli     4096 Ago 23  2015 Metallica
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Metheny_Heath Brothers_Brubeck_King
+drwx------ 27 rcoli rcoli     4096 Ago 23  2015 Michael Jackson
+drwx------ 12 rcoli rcoli     4096 Ago 23  2015 Michel Camilo
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Michel Camilo-Tomatito
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Mick Karn-David Torn-Terry Bozzio
+drwx------  7 rcoli rcoli     4096 Ago 23  2015 Mike Stern
+drwx------ 89 rcoli rcoli     4096 Ago 23  2015 Miles Davis
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Miles Davis & Gil Evans
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Miles Davis & John Coltrane
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Miles Davis & Modern Jazz Giants
+drwx------  8 rcoli rcoli     4096 Ago 23  2015 Miles Davis Quintet
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Miles Davis With Stan Getz and Lee Konit
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Miles Davis with the Lighthouse All-Star
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Moraes Moreira
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Milton Nascimento
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Morcheeba
+drwx------ 15 rcoli rcoli     4096 Ago 23  2015 Mr. Big
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Mötley Crüe
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Naipe
+drwx------ 12 rcoli rcoli     4096 Ago 23  2015 Nando Reis
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Nelly Furtado
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Neneh Cherry
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Nereu
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Nicholas Payton
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Nick Brignola
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Nicolas Krassik
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Oasis
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Omara Portuondo
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Original Soundtrack
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Orishas
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Orlandivo
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Os Mutantes
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Os Paralamas do Sucesso
+drwx------  7 rcoli rcoli     4096 Ago 23  2015 Oscar Peterson
+drwx------  2 rcoli rcoli     4096 Ago 23  2015 The Rolling Stone Magazines 500 Greatest Songs Of All Time
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Otis Redding
+drwx------ 18 rcoli rcoli     4096 Ago 23  2015 Ozzy Osbourne
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Page & Plant
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Pat Boone
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Pascoal Meirelles
+drwx------  7 rcoli rcoli     4096 Ago 23  2015 Pat Metheny
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Pat Metheny Group
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Pat Metheny with Dave Holland and Roy Haynes
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Paul Hardcastle
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Paul McCartney
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Paula Abdul
+drwx------  7 rcoli rcoli     4096 Ago 23  2015 Paulinho da Viola
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Pearl Jam
+drwx------  7 rcoli rcoli     4096 Ago 23  2015 Pedro Luís e A parede
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Peter Erskine
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Peter Gabriel
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Peter Tosh
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Phil Collins
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Quarteto Jobim Morelenbaum
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 PJ Harvey
+drwx------  8 rcoli rcoli     4096 Ago 23  2015 Queen
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Rainbow
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Ray Barretto
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Ravi Coltrane
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Red Hot Chili Peppers
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Ray Charles
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Rimsky-Korsakov
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Robben Ford
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Robben Ford & the Blue Line
+drwx------  8 rcoli rcoli     4096 Ago 23  2015 Robbie williams
+drwx------  8 rcoli rcoli     4096 Ago 23  2015 Robert Cray
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Robert Johnson
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Robert Plant_Alison Krauss
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Roberto Fonseca
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Roge
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Rosa Passos
+drwx------ 23 rcoli rcoli     4096 Ago 23  2015 Rush
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Sade
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Sandra De Sá
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Santana
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Scott Henderson & Tribal Tech
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Scott Henderson-Steve Smith-Victor Wooten
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Seal
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Seiji Ozawa
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Sergio Mendes & Brasil '66
+drwx------  7 rcoli rcoli     4096 Ago 23  2015 Sergio Mendes
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Shirley Bassey
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Sidney Magal
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Skank
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Sister Hazel
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Sly and the Family Stone
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Som Imaginário
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Sonny Rollins
+drwx------ 15 rcoli rcoli     4096 Ago 23  2015 Soulive
+drwx------ 16 rcoli rcoli     4096 Ago 23  2015 Soundtrack
+drwx------ 12 rcoli rcoli     4096 Ago 23  2015 Stan Getz
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Stan Getz Quartet
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Stan Getz & Joao Gilberto
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Stan Getz with Bill Evans
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Stan Getz_Charlie Byrd
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Stan Getz_João Gilberto
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Steve Lukather
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Steve Vai
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Stevie Wonder
+drwx------ 28 rcoli rcoli     4096 Ago 23  2015 Sting
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Stéphane Pompougnac
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Tears for Fears
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Technotronic
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Temple of the Dog
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 The Beach Boys
+drwx------  9 rcoli rcoli     4096 Ago 23  2015 Teresa Cristina
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 The Black Crowes
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 The Brecker Brothers
+drwx------ 21 rcoli rcoli     4096 Ago 23  2015 The Clash
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 The Commodores
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 The Corrs
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 The Dixie Dregs
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 The Doobie Brothers
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 The J.B.'s
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 The Jacksons
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 The Jeff Beck Group
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 The Monks
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 The Police
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 The Real Group
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 The Rolling Stones
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 The Rough Guide Salsa Divas.2010
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 The Strokes
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 The Sex Pistols
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 The Troggs
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 The Who
+drwx------  8 rcoli rcoli     4096 Ago 23  2015 The White Stripes
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Thelonious Monk
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Thelonius Monk; Sonny Rollins
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Tim Maia
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Tito Puente With His Latin Ensemble
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Toby Keith
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Toquinho E Paulinho Da Viola - 1
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Toto
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Trapeze
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Tribal Tech
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Trio da Paz
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Trio Mocoto
+drwx------  7 rcoli rcoli     4096 Ago 23  2015 U2
+drwx------ 15 rcoli rcoli     4096 Ago 23  2015 Van Halen
+drwx------ 32 rcoli rcoli     4096 Ago 23  2015 Various Artists
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Velvet Revolver
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Vernon Reid & Masque
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Vinnie Colaiuta
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Warrant
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Weather Report
+drwx------ 17 rcoli rcoli     4096 Ago 23  2015 Whitesnake
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Whitney Houston
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Willie Nelson And Wynton Marsalis
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Wilson Simonal
+drwx------  8 rcoli rcoli     4096 Ago 23  2015 Wilson Simoninha
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 Winger
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Ben Harper
+drwx------ 10 rcoli rcoli     4096 Ago 23  2015 Black Sabbath
+drwx------ 12 rcoli rcoli     4096 Ago 23  2015 Caetano Veloso
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Dona Ivone Lara - 2001 Nasci Pra Sonhar E Cantar
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Ella Fitzgerald Vol 1
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Fugees
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Kleiton & Kledir
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 La Calle
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Mozart
+drwx------ 42 rcoli rcoli     4096 Ago 23  2015 Ney Matogrosso
+drwx------  5 rcoli rcoli     4096 Ago 23  2015 Os Melhores Sambas de Enredo de Todos os Tempos
+drwx------  8 rcoli rcoli     4096 Ago 23  2015 Paula Lima
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Ronaldo Diamante
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Wolfgang Amadeus Mozart
+drwx------ 11 rcoli rcoli     4096 Ago 23  2015 Bob Marley & The Wailers
+drwx------ 24 rcoli rcoli     4096 Ago 23  2015 Bruce Springsteen
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Casuarina
+drwx------  3 rcoli rcoli     4096 Ago 23  2015 Novos Baianos
+drwx------  9 rcoli rcoli     4096 Ago 23  2015 Otis Taylor
+drwx------ 41 rcoli rcoli     4096 Ago 23  2015 Pink Floyd
+drwx------  6 rcoli rcoli     4096 Ago 23  2015 Seu Jorge
+drwx------  4 rcoli rcoli     4096 Ago 23  2015 The Darkness
+drwx------ 11 rcoli rcoli     4096 Ago 23  2015 Titãs
+drwx------ 18 rcoli rcoli     4096 Ago 23  2015 Tracy Chapman
+drwx------  2 rcoli rcoli     4096 Jul 31  2016 Playlists
+drwx------  3 rcoli rcoli     4096 Dez  9  2016 Zarabataba
+drwx------  3 rcoli rcoli     4096 Dez  9  2016 Yuri Popoff
+drwx------  3 rcoli rcoli     4096 Dez  9  2016 Yngwie Malmsteen's Rising Force
+drwx------  3 rcoli rcoli     4096 Dez  9  2016 Yngwie Malmsteen
+drwx------  3 rcoli rcoli     4096 Dez  9  2016 Yarbrough & Peoples
+drwx------ 17 rcoli rcoli     4096 Dez  9  2016 Zé Ramalho
+drwx------  9 rcoli rcoli     4096 Dez  9  2016 Zeca Pagodinho
+drwx------  6 rcoli rcoli     4096 Dez  9  2016 Zimbo Trio
+drwx------  2 rcoli rcoli     4096 Dez  9  2016 Zizi Possi
+drwx------  3 rcoli rcoli     4096 Dez  9  2016 B 52'S
+drwx------  4 rcoli rcoli     4096 Dez  9  2016 B.B. King
+drwx------  3 rcoli rcoli     4096 Dez  9  2016 Band Of Gold
+drwx------  4 rcoli rcoli     4096 Dez  9  2016 Banda Black Rio
+drwx------  3 rcoli rcoli     4096 Dez  9  2016 Banda União Black
+drwx------  3 rcoli rcoli     4096 Dez  9  2016 Bandeira 2
+drwx------  3 rcoli rcoli     4096 Dez  9  2016 Bangalafumenga
+drwx------  3 rcoli rcoli     4096 Dez  9  2016 Barrett Strong
+drwx------  4 rcoli rcoli     4096 Dez  9  2016 Barry White
+drwx------ 10 rcoli rcoli     4096 Dez  9  2016 Barão Vermelho
+drwx------  3 rcoli rcoli     4096 Dez  9  2016 Beastie Boys
+drwx------  3 rcoli rcoli     4096 Dez  9  2016 Basia
+drwx------  4 rcoli rcoli     4096 Dez  9  2016 Bebel Gilberto
+drwx------  3 rcoli rcoli     4096 Dez  9  2016 Beck
+drwx------  6 rcoli rcoli     4096 Dez  9  2016 Bebeto
+drwx------  3 rcoli rcoli     4096 Jul  1 20:22 Al Green
+drwx------  3 rcoli rcoli     4096 Jul  1 20:22 Afro-Cuban All Stars
+drwx------  3 rcoli rcoli     4096 Jul  1 20:22 Afrika Bambaataa & The Soul Sonic Force
+drwx------  5 rcoli rcoli     4096 Jul  1 20:22 Alice Cooper
+drwx------  6 rcoli rcoli     4096 Jul  1 20:22 Aerosmith
+drwx------  2 rcoli rcoli     4096 Jul  1 20:22 Adicionar Automaticamente ao iTunes
+drwx------  3 rcoli rcoli     4096 Jul  1 20:22 Aaron Neville
+drwx------  4 rcoli rcoli     4096 Jul  1 20:22 Adriana Calcanhoto
+drwx------ 20 rcoli rcoli     4096 Jul  1 20:22 Alison Krauss Discography (18 Albums With Covers)
+drwx------  6 rcoli rcoli     4096 Jul  1 20:22 ABBA
+drwx------  4 rcoli rcoli     4096 Jul  1 20:22 14 Bis
+drwx------  4 rcoli rcoli     4096 Jul  1 20:22 Alceu Valença
+drwx------ 23 rcoli rcoli     4096 Jul  1 20:22 AC_DC
+-rw-rw-r--  1 rcoli rcoli  2608353 Jul  1 20:32 md5sum.txt
