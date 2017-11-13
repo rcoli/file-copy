@@ -20,17 +20,17 @@ public class FileHelper {
 	}
 
 	public static String getFileProcessedName(Path file) {
-		return StringHelper.removeEspecialCharacters(file.getFileName().toString());
+		return StringHelper.normalizeCharacters(file.getFileName().toString());
 	}
 
 	public static String getProcessedAlbumName(Path file) {
 		String albumName = StringHelper.getLastValueFrom(file.getParent().toString(), PATH_SEPARATOR);;
-		return StringHelper.removeEspecialCharacters(albumName);
+		return StringHelper.normalizeCharacters(albumName);
 	}
 
 	public static String getProcessedArtistName(Path file) {
 		String albumName = StringHelper.getSecondLastValueFrom(file.getParent().toString(), PATH_SEPARATOR);;
-		return StringHelper.removeEspecialCharacters(albumName);
+		return StringHelper.normalizeCharacters(albumName);
 	}
 	/**
 	 * drwx------  3 rcoli rcoli     4096 Jan 22  2015 Sururu Na Roda

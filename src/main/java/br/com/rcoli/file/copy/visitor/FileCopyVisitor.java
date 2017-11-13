@@ -23,10 +23,16 @@ public class FileCopyVisitor extends SimpleFileVisitor<Path> {
 	private String copyToDir;
 	
 	private List<String> artists;
+	
+	private Integer maxNumFiles;
+	
+	private Integer currentFileIndex;
 
-	public FileCopyVisitor(String copyTo, String artistsFile) throws IOException {
+	public FileCopyVisitor(String copyTo, String artistsFile, Integer maxNumFiles) throws IOException {
 		this.copyToDir = copyTo;
 		this.artists = FileHelper.getArtistsFromFile(artistsFile);
+		this.maxNumFiles = maxNumFiles;
+		this.currentFileIndex = 1;
 	}
 
 	@Override
@@ -40,7 +46,7 @@ public class FileCopyVisitor extends SimpleFileVisitor<Path> {
 
 	private void proccess(Path file) throws IOException {
 
-		if (isAudioFile(file) && isInFilter(file)) {
+		if (isAudioFile(file) && isInFilter(file) && currentFileIndex <= maxNumFiles) {
 
 			String processedArtistName = FileHelper.getProcessedArtistName(file);
 			String processedAlbumName = FileHelper.getProcessedAlbumName(file);
@@ -49,9 +55,11 @@ public class FileCopyVisitor extends SimpleFileVisitor<Path> {
 			String newFullFileName = String.format(NEW_PATH_FORMAT, copyToDir, processedArtistName, processedAlbumName,
 					fileProcessedName);
 
-			System.out.println(newFullFileName);
+			System.out.println(String.format("%03d -> %s", currentFileIndex, newFullFileName));
 
 			FileUtils.copyFile(file.toFile(), new File(newFullFileName));
+			
+			currentFileIndex++;
 		}
 	}
 
